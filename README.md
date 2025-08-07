@@ -1,6 +1,6 @@
 # 3d-printing
 ## Overview
-This repository contains the STL file of the robotic arm joint. The file has been converted to the STL format suitable for 3D printing.
+This repository contains the STL file of the robotic arm joint was designed before you can find it in my repository in the name of joint. The file has been converted to the STL format suitable for 3D printing.
 
 ## File Details
 - **File Name:**
@@ -30,3 +30,8 @@ This repository contains the STL file of the robotic arm joint. The file has bee
   - Requires a heated bed to prevent warping
   - Printing in an enclosed environment is recommended to maintain stable temperature
   - Cooling fan speed should be reduced or turned off to avoid layer cracking
+ 
+  image:
+
+  <img width="1032" height="899" alt="Screenshot 1447-02-13 at 10 02 45 AM" src="https://github.com/user-attachments/assets/0c3c617a-234a-4c24-b073-f43fef4a28fd" />
+
